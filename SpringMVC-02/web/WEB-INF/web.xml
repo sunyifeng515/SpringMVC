@@ -5,7 +5,7 @@
          version="4.0">
     <servlet>
         <servlet-name>hello</servlet-name>
-        <servlet-class>com.sun.servlet.Hello</servlet-class>
+        <servlet-class>com.sun.controller.Hello</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>hello</servlet-name>
